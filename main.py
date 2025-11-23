@@ -1,10 +1,3 @@
-"""
-IMA-314 : Optimization Techniques for Data Science
-Course Project
-By:
-Arjun Manjunath - 2023bcd0067
-"""
-
 import numpy as np
 from sklearn.datasets import make_regression
 
